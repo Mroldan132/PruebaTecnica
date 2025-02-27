@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PruebaTecnicaDelosi.Controllers.MatrizController",
+    "Method": "Rotate",
+    "RelativePath": "api/Matriz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "matrizCuadrada",
+        "Type": "PruebaTecnicaDelosi.Models.MatrizCuadrada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

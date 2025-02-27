@@ -1,0 +1,16 @@
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\PruebaTecnicaDelosi.exe
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\appsettings.Development.json
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\appsettings.json
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\PruebaTecnicaDelosi.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\PruebaTecnicaDelosi.deps.json
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\PruebaTecnicaDelosi.runtimeconfig.json
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\PruebaTecnicaDelosi.pdb
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\FluentValidation.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\Microsoft.OpenApi.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\xunit.abstractions.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\xunit.assert.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\xunit.core.dll
+C:\Users\user\Documents\PruebaTecnicaDelosi\PruebaTecnicaDelosi\out\xunit.execution.dotnet.dll

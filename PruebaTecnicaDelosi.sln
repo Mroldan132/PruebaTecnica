@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaDelosi", "PruebaTecnicaDelosi\PruebaTecnicaDelosi.csproj", "{0913E646-6D21-4163-9B88-CCCFB8DC8AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnicaDelosi.Tests", "PruebaTecnicaDelosi.Tests\PruebaTecnicaDelosi.Tests.csproj", "{9B8B7F3F-3EE9-423D-AFEA-D923F5DABFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0913E646-6D21-4163-9B88-CCCFB8DC8AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0913E646-6D21-4163-9B88-CCCFB8DC8AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0913E646-6D21-4163-9B88-CCCFB8DC8AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0913E646-6D21-4163-9B88-CCCFB8DC8AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8B7F3F-3EE9-423D-AFEA-D923F5DABFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8B7F3F-3EE9-423D-AFEA-D923F5DABFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8B7F3F-3EE9-423D-AFEA-D923F5DABFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8B7F3F-3EE9-423D-AFEA-D923F5DABFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
